@@ -1,5 +1,5 @@
 def hello():
-    print('Howdy')
+    print('Howdy!')
 
 result = hello()
 print(result)
